@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\bin\Debug\FileQuest.exe.config
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\bin\Debug\FileQuest.exe
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\bin\Debug\FileQuest.pdb
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\obj\Debug\FileQuest.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\obj\Debug\FileQuest.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\obj\Debug\FileQuest.exe
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\FileQuest\FileQuest\obj\Debug\FileQuest.pdb
